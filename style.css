@@ -24,3 +24,14 @@ padding: 20px;
     text-transform: uppercase;
     margin: 30px;
 }
+  .sobre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    
+    .sobre_texto{
+    
+        padding: 40px;
+    }
